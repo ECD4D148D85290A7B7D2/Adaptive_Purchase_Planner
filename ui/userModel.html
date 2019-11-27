@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="style.css" type="text/css">
+  <script src = "listJS.js"></script>
+  <title>User Model</title>
+  <script>
+      window.onload = function(){
+            getUserModel(10000)
+      }
+  </script>
+</head>
+<body>
+    <div class = "titleHeader">User Model</div>
+    <div id = "back"><button onclick="location.href = 'index.html';">Back</button></div>
+    <div id = "usermodelString"> </div>
+    <div id = "one">
+    <span style = "font-size: 25px;"><b>Algorithmic Approach</b></span>
+    <table id = algoList>
+        <thead>
+            <tr>
+                <th>Item</th>
+                <th>Size</th>
+                <th>Purchase Frequency</th>
+            </tr>
+        </thead>
+        <tbody id = "algoListBody"></tbody>
+    </table>
+    </div>
+    <div id = "two">
+    <span style = "font-size: 25px;"><b>Machine Learning Approach</b></span>
+    <table id = mlList>
+            <thead>     
+                <tr>
+                    <th>Item</th>
+                    <th>Size</th>
+                    <th>Purchase Frequency</th>
+                </tr>
+            </thead>
+            <tbody id = "mlListBody"></tbody>
+        </table>
+     </div>
+
+</body>

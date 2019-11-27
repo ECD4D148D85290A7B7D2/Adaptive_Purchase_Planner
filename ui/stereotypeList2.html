@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="style.css" type="text/css">
+  <title>Stereotype Recommendations</title>
+  <script src = "listJS.js"></script>
+  <script>
+      window.onload = function(){
+          getStereotypeRecs(10002);
+      }
+  </script>
+</head>
+<div class = "container">
+    <div id = "listHeader" class = "header">
+        <h2>Shopping List - Stereotype Recommendations</h2>
+    </div>
+    <div id = "back"><button onclick="location.href = 'index2.html';">Back</button></div>
+    <table id = list>
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Item</th>
+            </tr>
+        </thead>
+        <tbody id = "listBody"></tbody>
+    </table>
+</div>

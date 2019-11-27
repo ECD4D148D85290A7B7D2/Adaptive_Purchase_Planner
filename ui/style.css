@@ -1,0 +1,100 @@
+
+.itemHeader{
+    background: blue;
+}
+th,td{
+    padding:15px;
+    font-size:18px;
+}
+
+table{
+    width:100%;
+    border-collapse: collapse;
+}
+.container {
+    /* background-color: lightblue; */
+}
+table tbody tr:nth-child(odd){
+    background: #f9f9f9
+}
+tbody tr:hover {
+    background:#ddd !important;
+}
+tbody tr.bought {
+    background:lightgreen !important;
+    color: #fff;
+    text-decoration: line-through;
+}
+tbody tr.ignored {
+    background: lightblue !important;
+}
+tbody tr.rejected {
+    background: lightcoral !important;
+}
+tbody tr.stereotype{
+    background: rgb(245, 211, 150);
+}
+thead tr{
+    border-bottom: 1px solid black;
+}
+.header{
+    /* background-color: lightblue; */
+    /* color: white; */
+    text-align: center;
+}
+.titleHeader{
+    text-align: center;
+    font-size:100px;
+    
+}
+.titleContainer{
+    padding-bottom:300px;
+}
+.buttonDiv{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:10px
+}
+button{
+    font-size: 20px;
+}
+#buyNow, #buyLater, #missed{
+    width:600px;
+    font-size: 40px;
+    padding:10px;
+}
+#submit{
+    width:300px;
+    font-size: 20px;
+    padding:10px;
+}
+.card-panel {
+    width:50%;
+    padding:0px;
+    font-size:30px;
+    }
+    
+    .row .col.s2 {
+    width:83.3333333333%;
+    }
+    .col{
+    margin-left:33rem;
+    }
+    
+    
+    .titleContainer{
+        padding-bottom:30px;
+    }
+    div#one {
+        width: 50%;
+        height: 200px;
+       
+        float: left;
+    }
+    div#two {
+        
+        width: 50%;
+    height: 200px; 
+    float: right;
+}
