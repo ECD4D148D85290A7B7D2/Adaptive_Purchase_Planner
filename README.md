@@ -6,5 +6,6 @@
 The application can keep track of products users bought and recommend them to use when they need them, suggest other products that might interest them, so users can find better and cheaper products more easily.
 Our objective is to build an application that will track the users' buying habits through explicit data collection and implicit recognition of users' choices in the app to suggest purchases in a timely manner.
 
+### :pushpin: James APP Demo
 
 [![Demo](https://github.com/rohan-tcd/Team-James-Adaptive-Purchase-Planner/blob/refactored_django_to_flask/ui/demo.png)](https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view "James APP - Click to Watch!")
