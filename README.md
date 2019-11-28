@@ -9,4 +9,4 @@ Our objective is to build an application that will track the users' buying habit
 
 > Demo: https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view
 
-|default|![](http://img.youtube.com/vi/eob7V_WtAVg/default.jpg)|
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
