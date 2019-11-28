@@ -7,7 +7,4 @@ The application can keep track of products users bought and recommend them to us
 Our objective is to build an application that will track the users' buying habits through explicit data collection and implicit recognition of users' choices in the app to suggest purchases in a timely manner.
 
 
-> Demo: https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view
-
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view "Little red riding hood - Click to Watch!")
+[![Demo](https://github.com/rohan-tcd/Team-James-Adaptive-Purchase-Planner/blob/refactored_django_to_flask/ui/demo.png)](https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view "James APP - Click to Watch!")
