@@ -8,3 +8,21 @@ Our objective is to build an application that will track the users' buying habit
 
 
 > Demo: https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view
+
+var embed = require("embed-video")
+
+var vimeoUrl = "http://vimeo.com/19339941"
+var youtubeUrl = "https://www.youtube.com/watch?v=twE64AuqE9A"
+var dailymotionUrl = "https://www.dailymotion.com/video/x20qnej_red-bull-presents-wild-ride-bmx-mtb-dirt_sport"
+
+console.log(embed(vimeoUrl))
+console.log(embed(youtubeUrl))
+console.log(embed(dailymotionUrl))
+
+var vimeoId = "6964150"
+var youtubeId = "9XeNNqeHVDw"
+var dailymotionId = "x20qnej"
+
+console.log(embed.vimeo(vimeoId))
+console.log(embed.youtube(youtubeId))
+console.log(embed.dailymotion(dailymotionId))
