@@ -13,5 +13,7 @@ Our objective is to build an application that will track the users' buying habit
 [![Demo](https://github.com/rohan-tcd/Team-James-Adaptive-Purchase-Planner/blob/refactored_django_to_flask/ui/demo.png)](https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view "James APP - Click to Watch!")
 
 
-#### :pushpin: Demo Usecases:
+## :pushpin: Demo Use Cases:
+
+
 
