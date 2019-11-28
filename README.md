@@ -10,4 +10,4 @@ Our objective is to build an application that will track the users' buying habit
 > Demo: https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view
 
 [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://drive.google.com/file/d/10831LwLYQaKu__veePYLC_cGlartAUS2/view "Little red riding hood - Click to Watch!")
